@@ -1,0 +1,43 @@
+{
+  "technicalIdentifiers": [
+    ".NET", "2FA", "3D", "5G",
+    "ABAC", "ACK", "ADC", "ADSL", "AGI", "AGP", "AI", "AKS", "API", "APN", "ARM", "AR",
+    "AR/VR", "ASIC", "ASP.NET", "ASSP", "ASP", "AST", "AVX", "AVX2",
+    "BERT", "BI", "BGP", "BJT", "BIOS", "BDD", "BASE", "BLOB", "BOM", "BSD",
+    "C#", "C++", "C/C++", "CAD", "CAN", "CAP", "CA", "CDN", "CFG", "CI", "CI/CD", "CISC", "CLI", "CMS", "CMOS",
+    "CNN", "CSV", "CSS", "CRUD", "CVE", "CVSS",
+    "DAC", "DDoS", "DDR", "DB", "DBMS", "DDL", "DLP", "DML", "DNS", "DoS", "DRY", "DSL", "DPI", "D3.js",
+    "EISA", "EEPROM", "EDGE", "EKS", "EMF", "ERP", "ETL", "EtherCAT", "EULA",
+    "FPGA", "FaaS", "FOSS", "FTP",
+    "GAN", "GKE", "GNU", "GPU", "GPRS", "GPS", "GUI", "GPT", "HTML",
+    "HTTP", "HTTP/2", "HTTPS", "HDD",
+    "iBT", "IC", "ICMP", "IDE", "IDS", "IE", "IGMP", "IMAP", "IMU", "IoT", "I/O", "IP", "IPS", "ISA", "ISP",
+    "IaC", "I2C", "I2S",
+    "JPG", "JPEG", "JTAG", "JSON", "JSONB", "JVM", "JWT",
+    "K8s", "KISS", "KNN",
+    "LabVIEW", "LAN", "LAMP", "LCD", "LDAP", "LED", "LIN", "LiDAR", "LPDDR", "LSP", "LTE",
+    "MAC", "MATLAB", "MAN", "MCA", "MITM", "MIPS", "ML", "MMU", "MOSFET", "MVC", "MVVM", "MPLS", "MR", "MFA",
+    "NAND", "NAT", "NFC", "NFV", "NLP", "NOR", "NoSQL", "NVMe",
+    "OAuth", "OCR", "OLAP", "OLTP", "OLED", "ORM", "OS", "OSI", "OTP", "OOP", "OSS",
+    "PaaS", "PCB", "PCIe", "PDF", "PET", "PHP", "PKI", "PNG", "PnP", "POP3", "POSIX", "PoE", "PPT", "PSU", "PSTN",
+    "QR", "QUIC", "SRTP",
+    "RDBMS", "RAID", "RAM", "RBAC", "REPL", "REST", "RISC", "RL", "ROM", "ROS", "RPC", "RTCP", "RTK", "RTOS",
+    "RTP", "RxJS",
+    "SaaS", "SAML", "SATA", "SDK", "SDN", "SDR", "SEO", "SFTP", "SHA", "SIMM", "SIEM", "SMPS", "SMTP",
+    "SNMP", "SOC", "SoC", "SODIMM", "SPI", "SQL", "SQLi", "SR", "SSD", "SSH", "SSL", "SSO",
+    "SVG", "SVGA", "SVM",
+    "TDD", "TCP", "TFT", "TLS", "TPM", "TOEFL", "TTP", "TUI",
+    "UART", "UDP", "UEFI", "UI", "UML", "URI", "URL", "USB-C",
+    "VCS", "VDI", "VGA", "VLAN", "VM", "VPN", "VoIP",
+    "WAN", "WAMP", "WPA", "WYSIWYG", "Wi-Fi", "WWW", "WebRTC", "WebSockets",
+    "XAMPP", "XML", "XSS", "XR"
+  ],
+  "romanNumerals": [
+    "II", "III", "IV", "V",
+    "VI", "VII", "VIII", "IX", "X",
+    "XI", "XII", "XIII", "XIV", "XV",
+    "XVI", "XVII", "XVIII", "XIX", "XX",
+    "L", "C", "D", "M", "MM", "MMM",
+    "XL", "XC", "CD", "CM"
+  ]
+}
